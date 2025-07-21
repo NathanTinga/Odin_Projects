@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+    width: 600px;
+}
+
+* {
+    font-family: "Brush Script MT", cursive;
+}
+
+h1.title {
+    font-weight: bold;
+}
+
+.recipe {
+    text-align: center;
+}
+
+ul, ol {
+    text-align: left;
+    list-style-position: inside;
+    margin: 0 30px;
+}
+
+ol li {
+    margin: 15px 0;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
